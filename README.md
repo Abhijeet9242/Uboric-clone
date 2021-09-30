@@ -10,6 +10,10 @@
 Make sure that you open the whole Uboric project folder from text editor(eg. - VS Code). From the navbar of landing page,a drop-down is present there are many more pages on which you can go. The pages are- Men,Women,Kids,Home,kitchen,electronics,signin etc..When you click on cart  you can see your added item.</p>
 
 <h3>Landing page
+  <img src="https://user-images.githubusercontent.com/87429783/135506110-8eea2c4f-836f-480d-89d6-0dd8b547213b.png">
+ <br>
+  <br>
+  <h3>Login Page</h3>
   
 
 <h2>Tech stack</h2>
