@@ -89,7 +89,11 @@
       
         .iconsize>i {
           font-size: 35px;
+                color:black;
         }
+.iconsize > i:hover{
+        color:orange;
+}
       
         /* second nav */
       
