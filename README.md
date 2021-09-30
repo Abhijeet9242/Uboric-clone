@@ -14,6 +14,26 @@ Make sure that you open the whole Uboric project folder from text editor(eg. - V
  <br>
   <br>
   <h3>Login Page</h3>
+  <img src="https://user-images.githubusercontent.com/87429783/135506642-5cb31b33-e604-4b4a-a0ed-f8498a58c62d.png">
+   <br>
+  <br>
+  <h3>Product Page</h3>
+  <img src="https://user-images.githubusercontent.com/87429783/135506979-67ea28af-c3b0-4da9-bf79-7f76cf79fb85.png">
+    <br>
+  <br>
+  <h3>Cart Page</h3>
+  <img src="https://user-images.githubusercontent.com/87429783/135508814-fb73cb53-6a77-4aae-bc9a-f7aa10b4b462.png">
+    <br>
+  <br>
+  <h3>Address Page</h3>
+  <img src="https://user-images.githubusercontent.com/87429783/135509228-f222522a-41e4-4155-8856-446d38b9faab.png">
+    <br>
+  <br>
+  <h3>Checkout Page</h3>
+  <img src="https://user-images.githubusercontent.com/87429783/135507178-3b603e31-6fc6-4c3c-9108-9ccd283d14c7.png">
+    <br>
+  <br>
+<img src="https://user-images.githubusercontent.com/87429783/135508503-57675587-4bb3-462d-b90f-b583a58b8d14.png">
   
 
 <h2>Tech stack</h2>
@@ -25,7 +45,7 @@ Make sure that you open the whole Uboric project folder from text editor(eg. - V
 <h2>Feedback</h2>
  <p>If you have any feedback, please reach out to us at :- <h5>> kumarabhijeet0123@gmail.com</h5>
  
- ![Screenshot (2880)](https://user-images.githubusercontent.com/87429783/135498037-8b1bf15c-e09f-46fe-a770-98ad5d2d482f.png)
+
 
 
 
