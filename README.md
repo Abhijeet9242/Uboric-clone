@@ -41,7 +41,9 @@ Make sure that you open the whole Uboric project folder from text editor(eg. - V
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_HBDJ-3-r65eQWAZ98i2JiUodLF1IRJryyElrHlkOt0HksN34M3xLKS4nn01HREJB3Vw&usqp=CAU">
 
 <h2>Authors</h2>
-<h3><a style="border:none"href="https://github.com/Abhijeet9242">Abhijeet Kumar</a></h3>
+  <h3>Abhijeet kumar
+<h3><a style="border:none"href="https://github.com/Abhijeet9242">git hub</a></h3>
+    <h3><a style="border:none"href="https://medium.com/@kumarabhijeet0123/cloning-of-uboric-website-4e69fd18ec7e">medium</a></h3>
 <h2>Feedback</h2>
  <p>If you have any feedback, please reach out to us at :- <h5>> kumarabhijeet0123@gmail.com</h5>
  
