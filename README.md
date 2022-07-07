@@ -43,7 +43,7 @@ Make sure that you open the whole Uboric project folder from text editor(eg. - V
 <h2>Authors</h2>
   <h3>Abhijeet kumar
 <h3><a style="border:none"href="https://github.com/Abhijeet9242">git hub</a></h3>
-    <h3><a style="border:none"href="https://medium.com/@kumarabhijeet0123/cloning-of-uboric-website-4e69fd18ec7e">medium</a></h3>
+    
 <h2>Feedback</h2>
  <p>If you have any feedback, please reach out to us at :- <h5>> kumarabhijeet0123@gmail.com</h5>
  
